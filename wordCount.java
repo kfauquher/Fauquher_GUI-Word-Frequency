@@ -1,9 +1,5 @@
 //Author Name: Kylie Fauquher
-//Date: 3/6/2022
-//Program Name: Smith_module7_word_occurrence
-//Purpose: A GUI in Java that counts word frequency in your text.
-
-
+//Date: 3/2022
 
 package WordCount;
 
